@@ -1,16 +1,17 @@
-id: opecha:P007067
+id: P007067
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD137882
   title: དམ་པའི་ཆོས་མངོན་པ་མཛོད་ཀྱི་རྣམ་བཤད་བློ་གསལ་བློའི་པདྨོ་ཁ་འབྱེད།
-  volume:
+  author: ''
+  volumes:
     4dcd294c47b64a7f9ce89a79be5731ef:
       image_group_id: I1KG15930
       title: Volume 1 of dam pa'i chos mngon pa mdzod kyi rnam bshad blo gsal blo'i
         pad+mo kha 'byed/
       volume_number: 1
       total_pages: 502
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: དམ་པའི་ཆོས་མངོན་པ་མཛོད་ཀྱི་རྣམ་བཤད་བློ་གསལ་བློའི་པདྨོ་ཁ་འབྱེད།
   author: ''
